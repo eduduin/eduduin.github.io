@@ -3,19 +3,33 @@
     Padrão de cores pensado e adaptado ao daltonismo
 */
 
+header {
+    font-size: 18px;
+}
+
 body {
-    background-color: #9B9B94;
+    background-color: #9B9B95;
     color: #393939;
     font-family: Cambria, Cochin, Georgia, sans-serif;
+    font-size: 20px;
 }
 
 #Edu_Duin {
-    color: #DFDEEB;
+    color: #DFDEE7;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42px;
 }
 
 #Pronomes {
-    color: #B9B99D;
+    color: #B9B9A3;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
 }
 
 .link-style {
@@ -26,9 +40,9 @@ body {
     color: #59599B;
     font-weight: bold;
     font-family: monospace, serif;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .language {
-    font-size: 18px;
+    font-size: 22px;
 }
