@@ -1,0 +1,34 @@
+/*
+    Paleta de Cores gerada através do site https://coolors.co
+    Padrão de cores pensado e adaptado ao daltonismo
+*/
+
+body {
+    background-color: #9B9B94;
+    color: #393939;
+    font-family: Cambria, Cochin, Georgia, sans-serif;
+}
+
+#Edu_Duin {
+    color: #DFDEEB;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Pronomes {
+    color: #B9B99D;
+}
+
+.link-style {
+    color: #59599B;
+}
+
+.highlight {
+    color: #59599B;
+    font-weight: bold;
+    font-family: cursive, Cambria, Cochin, Georgia, serif;
+    font-size: 18px;
+}
+
+.language {
+    font-size: 18px;
+}
