@@ -25,8 +25,8 @@ body {
 .highlight {
     color: #59599B;
     font-weight: bold;
-    font-family: cursive, Cambria, Cochin, Georgia, serif;
-    font-size: 18px;
+    font-family: monospace, serif;
+    font-size: 16px;
 }
 
 .language {
