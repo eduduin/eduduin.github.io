@@ -52,3 +52,11 @@ h3 {
 li:hover {
     background-color: #DEDEE7;
 }
+
+div {
+    font-weight: bold;
+    /*background-color: #393939;*/
+    background-color: #DFDEE7;
+    color: #9B9B95;
+    border: 3px solid #393939;
+}
