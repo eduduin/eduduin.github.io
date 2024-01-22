@@ -11,10 +11,12 @@ body {
     background-color: #9B9B95;
     color: #393939;
     font-family: Cambria, Cochin, Georgia, sans-serif;
-    font-size: 20px;
+    font-size: 20px;margin-left: 30px;
+    ;
 }
 
 #Edu_Duin {
+    background-color: #9B9B95;
     color: #DFDEE7;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 40px;
@@ -45,4 +47,8 @@ h3 {
 
 .language {
     font-size: 22px;
+}
+
+li:hover {
+    background-color: #DEDEE7;
 }
