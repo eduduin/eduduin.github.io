@@ -25,9 +25,6 @@ body {
     text-align: center;
 }
 
-.duin-img {
-    text-align: center;
-}
 
 #Pronomes {
     color: #B9B9A3;
@@ -37,7 +34,6 @@ body {
 
 h2 {
     font-size: 30px;
-    text-align: center;
 }
 
 h3 {
@@ -53,7 +49,7 @@ h3 {
     display: block;
 }
 
-.highlight {
+.contacts {
     color: #59599B;
     font-weight: bold;
     font-family: monospace, serif;
@@ -78,10 +74,6 @@ div.prase {
     text-align: center;
 }
 
-.proj-img {
-    text-align: center;
-}
-
-.contacts {
+.duin-img {
     text-align: center;
 }
